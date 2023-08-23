@@ -1,0 +1,23 @@
+git add .
+
+git commit -m "modified topics"
+
+git commit --amend --date="2023-01-14 08:47:50"
+
+git push -u origin main
+
+
+
+
+
+
+git add .
+
+git commit -m "modified topics"
+
+git commit --amend --date="2023-2-16 08:47:50"
+
+                    git push -u origin main
+
+
+after 3rd esc :wq
